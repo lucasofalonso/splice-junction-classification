@@ -77,7 +77,7 @@ jupyter notebook notebooks/main.ipynb
 
 ## Requirements
 
-See `requirements.txt`. Main dependencies:
+See `environment.yml`. Main dependencies:
 
 - Python 3.9+
 - TensorFlow / Keras
